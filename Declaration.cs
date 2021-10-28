@@ -1,6 +1,4 @@
 using System;
-using System.IO;
-using System.Linq;
 
 namespace ExamSharp
 {
@@ -35,7 +33,7 @@ namespace ExamSharp
         }
         public override string ToString()
         {
-            return $"Nomber of Declaration:\t{NumDeclaration}\nName:\t{Name}\nSurename:\t{Surename}\nAge:\t{Age}\nYour Transport:\t{TypeTransport}\nPrice your Transport($):\t{PriceTransport}\n\n";
+            return $"Nomber of Declaration:\t{NumDeclaration}\nName:\t{Name}\nSurename:\t{Surename}\nAge:\t{Age}\nYour Transport:\t{TypeTransport}\nPrice your Transport:\t{PriceTransport} $\n\n";
         }
     }
 }

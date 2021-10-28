@@ -1,0 +1,11 @@
+Nomber of Declaration:	18536
+Name:	Alex
+Surename:	Black
+Age:	27
+Your Transport:	Avto
+Price your Transport:	650 $
+
+Import Duty:	95
+Excise Duty:	100
+VAT:	195
+Cost with customs clearance:	1040 $

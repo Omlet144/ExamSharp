@@ -1,6 +1,5 @@
 using System;
 using System.IO;
-using System.Linq;
 
 namespace ExamSharp
 {
@@ -26,7 +25,7 @@ namespace ExamSharp
       }
       public override string ToString()
         {
-            return $"Import Duty:\t{ImportDuty}\nExcise Duty:\t{ExciseDuty}\nVAT:\t{VAT}\nCost with customs clearance:\t{Price}$\n";
+            return $"Import Duty:\t{ImportDuty}\nExcise Duty:\t{ExciseDuty}\nVAT:\t{VAT}\nCost with customs clearance:\t{Price} $\n";
         }
         public void GetCheque (Declaration declaration)
         {
