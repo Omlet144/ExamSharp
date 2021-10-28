@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\bin\Debug\net5.0\ExamSharp.exe
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\bin\Debug\net5.0\ExamSharp.deps.json
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\bin\Debug\net5.0\ExamSharp.runtimeconfig.json
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\bin\Debug\net5.0\ExamSharp.runtimeconfig.dev.json
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\bin\Debug\net5.0\ExamSharp.dll
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\bin\Debug\net5.0\ref\ExamSharp.dll
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\bin\Debug\net5.0\ExamSharp.pdb
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.AssemblyInfo.cs
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.dll
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ref\ExamSharp.dll
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.pdb
+C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.genruntimeconfig.cache
