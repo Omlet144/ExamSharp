@@ -7,12 +7,13 @@ namespace ExamSharp
     {
         static void Main(string[] args)
         {
-           Declaration user1 = new Declaration(18536, "Alex","Black", 27, "Avto", 650);
+           Declaration user1 = new Declaration();
+           FillingTheDeclaration filling = new FillingTheDeclaration();
            Calculator calkul = new Calculator();
+           filling.FillingInTheDeclaration(user1);
            calkul.PriceСalculation(user1);
-           calkul.GetCheque(user1);
-           
-
+           calkul.GetSalesReceipt(user1);
         }
+       
     }
 }

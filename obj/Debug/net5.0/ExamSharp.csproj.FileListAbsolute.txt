@@ -14,3 +14,4 @@ C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.dll
 C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ref\ExamSharp.dll
 C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.pdb
 C:\Users\Student\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.genruntimeconfig.cache
+C:\Users\Alex\Desktop\ExamSharp\ExamSharp\obj\Debug\net5.0\ExamSharp.pdb
