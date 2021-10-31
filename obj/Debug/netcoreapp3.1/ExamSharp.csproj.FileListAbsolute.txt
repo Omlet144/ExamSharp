@@ -11,3 +11,16 @@ C:\Users\Alex\Desktop\ExamSharp\ExamSharp\bin\Debug\netcoreapp3.1\ExamSharp.pdb
 C:\Users\Alex\Desktop\ExamSharp\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.dll
 C:\Users\Alex\Desktop\ExamSharp\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.pdb
 C:\Users\Alex\Desktop\ExamSharp\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.genruntimeconfig.cache
+C:\Users\Alex\Desktop\ad\ExamSharp\bin\Debug\netcoreapp3.1\ExamSharp.exe
+C:\Users\Alex\Desktop\ad\ExamSharp\bin\Debug\netcoreapp3.1\ExamSharp.deps.json
+C:\Users\Alex\Desktop\ad\ExamSharp\bin\Debug\netcoreapp3.1\ExamSharp.runtimeconfig.json
+C:\Users\Alex\Desktop\ad\ExamSharp\bin\Debug\netcoreapp3.1\ExamSharp.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\ad\ExamSharp\bin\Debug\netcoreapp3.1\ExamSharp.dll
+C:\Users\Alex\Desktop\ad\ExamSharp\bin\Debug\netcoreapp3.1\ExamSharp.pdb
+C:\Users\Alex\Desktop\ad\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\ad\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\ad\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.AssemblyInfo.cs
+C:\Users\Alex\Desktop\ad\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\ad\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.dll
+C:\Users\Alex\Desktop\ad\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.pdb
+C:\Users\Alex\Desktop\ad\ExamSharp\obj\Debug\netcoreapp3.1\ExamSharp.genruntimeconfig.cache

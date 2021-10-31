@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\ExamSharp\\ExamSharp\\ExamSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\ad\\ExamSharp\\ExamSharp.csproj",
       "projectName": "ExamSharp",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\ExamSharp\\ExamSharp\\ExamSharp.csproj",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\ad\\ExamSharp\\ExamSharp.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\ExamSharp\\ExamSharp\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\ad\\ExamSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
